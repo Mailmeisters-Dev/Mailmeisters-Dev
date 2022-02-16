@@ -1,1 +1,1 @@
-Hier vind je alle code voor Mailmeisters zelf
+Hier vind je alle code voor mailmeisters
