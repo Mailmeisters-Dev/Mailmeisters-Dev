@@ -1,2 +1,1 @@
-- 👋 Hi, We're @Mailmeister-Dev known as mailmeisters
-- 👀 We're a collective of e-mail marketing specialist
+Hier vind je alle code voor Mailmeisters zelf
