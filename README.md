@@ -7,4 +7,5 @@ How to initialize repo:
 3. Login
 4. Initialize github repo
 5. Select local map
-6. Run > git pull --rebase origin main
+6. Run > git remote add origin 'repo-url'
+7. Run > git pull --rebase origin main
