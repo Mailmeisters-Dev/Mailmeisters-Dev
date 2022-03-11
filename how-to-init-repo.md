@@ -14,4 +14,5 @@ How to initialize repo:
 8. Select local map
 
 9. Run > git remote add origin 'repo-url'
-10. Run > git pull --rebase origin main
+10. Run > git branch -M main
+11. Run > git pull --rebase origin main
