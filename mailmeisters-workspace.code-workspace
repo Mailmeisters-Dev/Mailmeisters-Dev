@@ -1,32 +1,36 @@
 {
 	"folders": [
-		{
-			"uri": "vscode-vfs://github/Mailmeister-Dev/Frisland"
-		},
-		{
-			"name": "Advalley",
-			"path": "..\\Advalley"
-		},
-		{
-			"name": "Brandfield",
-			"path": "..\\Brandfield"
-		},
-		{
-			"name": "Den Boon Group",
-			"path": "..\\Den Boon Group"
-		},
-		{
-			"name": "Mailmeisters-Dev",
-			"path": "."
-		},
-		{
-			"name": "OERsterk",
-			"path": "..\\OERsterk"
-		},
-		{
-			"name": "Supspace",
-			"path": "..\\Supspace"
-		}
-	],
+    {
+      "uri": "vscode-vfs://github/Mailmeister-Dev/Frisland"
+    },
+    {
+      "name": "Advalley",
+      "path": "..\\Advalley"
+    },
+    {
+      "name": "Brandfield",
+      "path": "..\\Brandfield"
+    },
+    {
+      "name": "Den Boon Group",
+      "path": "..\\Den Boon Group"
+    },
+    {
+      "name": "Mailmeisters-Dev",
+      "path": "."
+    },
+    {
+      "name": "OERsterk",
+      "path": "..\\OERsterk"
+    },
+    {
+      "name": "Supspace",
+      "path": "..\\Supspace"
+    },
+    {
+      "name": "Ukje",
+      "path": "..\\Ukje"
+    }
+  ],
   "settings": {}
 }
