@@ -30,6 +30,10 @@
     {
       "name": "Ukje",
       "path": "..\\Ukje"
+    },
+    {
+      "name": "Fast-gas",
+      "path": "..\\Fast-gas"
     }
   ],
   "settings": {}
