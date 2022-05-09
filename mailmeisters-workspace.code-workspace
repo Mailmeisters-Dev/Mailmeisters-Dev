@@ -34,6 +34,10 @@
     {
       "name": "Fast-gas",
       "path": "..\\Fast-gas"
+    },
+    {
+      "name": "Vinify",
+      "path": "..\\Vinify"
     }
   ],
   "settings": {}
