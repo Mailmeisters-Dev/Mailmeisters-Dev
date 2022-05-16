@@ -34,6 +34,10 @@
     {
       "name": "Vinify",
       "path": "..\\Vinify"
+    },
+    {
+      "name": "Sybdev",
+      "path": "..\\Sybdev"
     }
   ],
   "settings": {}
