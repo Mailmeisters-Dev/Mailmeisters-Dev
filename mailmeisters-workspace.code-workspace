@@ -38,6 +38,10 @@
     {
       "name": "Sybdev",
       "path": "..\\Sybdev"
+    },
+    {
+      "name": "ToExplore",
+      "path": "..\\ToExplore"
     }
   ],
   "settings": {}
